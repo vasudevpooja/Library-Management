@@ -26,7 +26,7 @@ printf("6.Exit");
 printf ("\nEnter one of the above:");
 scanf("%d",&j);
 switch (j)
-{
+{ 
 case 1:
 printf ("Enter the book name=");
 scanf ("%s",l[i].book_name);
